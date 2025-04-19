@@ -21,3 +21,17 @@ func Swap[T any](a, b *T) {  // T (all type allowed.)
     *b = temp
 }
 ~~~
+
+
+--- 
+
+04.20 TCP server completed.
+
+04.20 TCP client scheduled.
+
+- additional feature
+    - concurrency processing.
+    - error handleing.
+
+04.20 prometheus metric 
+
