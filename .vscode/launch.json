@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/macapple/Desktop/Go/Go/src",
+      "program": "/Users/macapple/Desktop/Go/Go/src/build/Debug/outDebug"
+    }
+  ]
+}
