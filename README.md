@@ -25,15 +25,16 @@ func Swap[T any](a, b *T) {  // T (all type allowed.)
 
 --- 
 
-04.20 TCP server completed.
+04.20 TCP server completed. ☑️
 
-04.20 TCP client scheduled.
+04.20 TCP client scheduled. ☑️
 
 - additional feature
+    - loging, auth, storage ☑️
     - concurrency processing.
     - error handleing.
 
 04.20 prometheus metric 
 
 
-check <-> git account
+check <-> git account (deleted)
