@@ -1,27 +1,3 @@
-# Go
-
-- there is no class.
-
-- but having structure with methods.
-
-- 어떤 타입이든 메서드를 가질 수 있음.
-
-- 상속 없음, 인터페이스는 있음.
-
-- 함수 리터럴(람다 함수) 있음.
-
-- 고성능 가비지 컬렉터
-
-- 1.18부터 제네릭 공식 지원
-
-~~~go
-func Swap[T any](a, b *T) {  // T (all type allowed.)
-    temp := *a
-    *a = *sb
-    *b = temp
-}
-~~~
-
 
 --- 
 
@@ -34,7 +10,22 @@ func Swap[T any](a, b *T) {  // T (all type allowed.)
     - concurrency processing.
     - error handleing.
 
-04.20 prometheus metric 
+04.20 prometheus metric ✖️
 
 
 check <-> git account (deleted)
+
+
+---
+
+04.23 content edit
+Amit Saha - Practical Go: Building Scalable Network & Non-Network Applications
+
+위 내용으로 self-study를 해본 뒤 (빠르게 advanced http server까지만), 가능하다고 판단하면 team-study re-launching
+
+Go basic -> 개발환경 설정 & CLI application구조 등
+
+net/http 패키지 심화 , REST API client 구현까지?
+
+
+
